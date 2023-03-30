@@ -1,5 +1,6 @@
 
 # Github
 Arquivo da aula de Git e Github para iniciantes.
-Testes
+Teste1
 Teste2
+Teste3 - git diff
